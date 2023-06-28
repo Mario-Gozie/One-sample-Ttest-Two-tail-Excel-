@@ -68,9 +68,9 @@ For this task, I will take my significant figure to be **0.05**
 ![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/Critical%20values.png)
 
 ## DECISION
-Looking at the section for calculating sample statistics and Test statistic, There seems to be difference between the hypothesized mean (73) and the sample mean (6.125). **A difference of 7.875**. After hypothesis testing, I got a P-value less than the significant figure which shows that the difference in mean I saw was significant. hence I reject the null Hypothesis that the Average mean of mean score is same as women. 
+Looking at the section for calculating sample statistics and Test statistic, There seems to be difference between the hypothesized mean (73) and the sample mean (6.125). **_A difference of 7.875_**. After hypothesis testing, I got a P-value(3.9921E-08) less than the significant figure which shows that the difference in mean I saw was significant. hence, **I reject the null Hypothesis that the Average mean of mean score is same as women.** 
 
-Alternatively, I calculated the critical value for a T-test distribution. which is -2.02269092 on  the left and 202269092 on the left and  my T-statistic does not fall in-between these values so I have to reject the null hypothesis.
+Alternatively, I calculated the critical value for a T-test distribution. which is -2.02269092 on  the left and 202269092 on the left and  my T-statistic(-6.803004533) does not fall in-between these values so **I have to reject the null hypothesis.**
 
 ![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/Decision.png)
 
@@ -84,4 +84,4 @@ so from the sample so far, I can say that I am 95% confident that the mean of sc
 
 ## Thank You
 
-![Alt_Text]()
+![Alt_Text](https://github.com/Mario-Gozie/Ecommerce-Data-Visualization/blob/main/Images/thanks.jpg)
