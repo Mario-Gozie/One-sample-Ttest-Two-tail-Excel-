@@ -27,7 +27,7 @@ Now the tricky part is that the question is asking that I assume that the men an
 ## DECIDING ON STATISTICAL TEST TO USE
 
 In deciding the statistical test to use for comparing means, I need to consider if the population mean andpopulation standard deviation is 
-given or not. Here, the question gave the population mean and stated it clearly that the population standard deviation is absent. so I have no optionthan to use a **_T-test_**. if otherwise,I would have gone for a Z-test, i.e when population mean and standard deviation is given.
+given or not. Here, the question gave the population mean and stated it clearly that the population standard deviation is absent. so I have no optionthan to use a **_T-test_** and it has to be **_Two-Tailed_** because I am asked to check if the two mean scores are the same not if one is higher or lower. if otherwise (I am given mean and standard deviation of the population, I would have gone for a **_Two-Tailed Z-test_**
 
 ## POINT OF VIEW AND GOAl
 In summary, all I need to do is to do hypothesis testing and take a decision. if Men's Mean score for indoor gardening is  73 (same as women) or not. and to also determine what could be the mean range based on sample.
@@ -52,7 +52,7 @@ For this task, I will take my significant figure to be **0.05**
 ![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/significant%20figure.png)
 
 
-## DATA COLLECTION, CALCULATION OF SAMPLE STATISTICS, CALCULATION OF TEST STATISTICS.
+## CALCULATION OF SAMPLE STATISTICS AND CALCULATION OF TEST STATISTICS.
 
 ![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/Data%20collection.png)
 
@@ -68,8 +68,11 @@ For this task, I will take my significant figure to be **0.05**
 ![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/Critical%20values.png)
 
 ## DECISION
+Looking at the section for calculating sample statistics and Test statistic, There seems to be difference between the hypothesized mean (73) and the sample mean (6.125). **A difference of 7.875**. After hypothesis testing, I got a P-value less than the significant figure which shows that the difference in mean I saw was significant. hence I reject the null Hypothesis that the Average mean of mean score is same as women. 
 
+Alternatively, I calculated the critical value for a T-test distribution. which is -2.02269092 on  the left and 202269092 on the left and  my T-statistic does not fall in-between these values so I have to reject the null hypothesis.
 
+![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/Decision.png)
 
 ## CONFIDENCE INTERVAL
 
