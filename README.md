@@ -8,7 +8,7 @@ Hypothesis testing is very important in business analytics for decision making.l
 
 ## THE TASK
 
-We read the story of _Martha Stewart correctional Quarterly_ which tells us that the average score of women on a test of indoor gardening is 73. but there is no standard deviation. we want to know how men will score on this test.We sample random selection of n = 40 men, and compare their sample mean (M= 65.13) to the population mean of women. The sample of is assumed to be pulled from a population of men who have the same mean as women (U = 73).
+We read the story of _**Martha Stewart correctional Quarterly**_ which tells us that the average score of women on a test of indoor gardening is 73. but there is no standard deviation. we want to know how men will score on this test.We sample random selection of n = 40 men, and compare their sample mean (M= 65.13) to the population mean of women. The sample of is assumed to be pulled from a population of men who have the same mean as women (U = 73).
 
 ![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/The%20Task.png)
 
@@ -27,7 +27,7 @@ Now the tricky part is that the question is asking that I assume that the men an
 ## DECIDING ON STATISTICAL TEST TO USE
 
 In deciding the statistical test to use for comparing means, I need to consider if the population mean andpopulation standard deviation is 
-given or not. Here, the question gave the population mean and stated it clearly that the population standard deviation is absent. so I have no optionthan to use a *T-test* . if otherwise,I would have gone for a Z-test, i.e when population mean and standard deviation is given.
+given or not. Here, the question gave the population mean and stated it clearly that the population standard deviation is absent. so I have no optionthan to use a **_T-test_**. if otherwise,I would have gone for a Z-test, i.e when population mean and standard deviation is given.
 
 ## POINT OF VIEW AND GOAl
 In summary, all I need to do is to do hypothesis testing and take a decision. if Men's Mean score for indoor gardening is  73 (same as women) or not. and to also determine what could be the mean range based on sample.
@@ -47,7 +47,7 @@ In summary, all I need to do is to do hypothesis testing and take a decision. if
 
 
 ## DETERMINING SIGNIFICANT FIGURE
-For this task, I will take my significant figure to be *0.05*
+For this task, I will take my significant figure to be **0.05**
 
 ![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/significant%20figure.png)
 
