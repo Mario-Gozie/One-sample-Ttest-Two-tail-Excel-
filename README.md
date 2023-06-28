@@ -39,8 +39,8 @@ In summary, all I need to do is to do hypothesis testing and take a decision. if
 
 ## HYPOTHESIS
 
-* *My Null  Hypothesis* simply says that the mean score of men is same as women (Hypothesised mean = 73)
-*  *My Alternate hypothesis* says the two means are not the same.
+* **My Null  Hypothesis** simply says that the mean score of men is same as women (Hypothesised mean = 73)
+*  **My Alternate hypothesis** says the two means are not the same.
 
 ![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/Hypothesis.png)
 
