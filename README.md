@@ -14,21 +14,23 @@ We read the story of _Martha Stewart correctional Quarterly_ which tells us that
 
 ## THE DATASET
 
+This is a sample of 40 men score for indoor gardening.
+
 ![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/Dataset.png)
 
 
 ## A GLANCE AT THE TASK
 
 Looking at this question, the average score of the female population is known and that of the men is not known. 
-Now the tricky part is that the question is asking that I assume that the men and women have the same average score.
+Now the tricky part is that the question is asking that I assume that the men and women have the same average score which is 73. in other words the hypothesized mean for Men is 73.
 
 ## DECIDING ON STATISTICAL TEST TO USE
 
-in deciding the statistical test to use for comparing means, I need to consider if the population standard deviation is 
-given or not. Here, the question stated it clearly that the population standard deviation is not given so I have no option 
-than to use a T-test.
+In deciding the statistical test to use for comparing means, I need to consider if the population mean andpopulation standard deviation is 
+given or not. Here, the question gave the population mean and stated it clearly that the population standard deviation is absent. so I have no optionthan to use a *T-test* . if otherwise,I would have gone for a Z-test, i.e when population mean and standard deviation is given.
 
-## POINT OF VIEW AND GOAL
+## POINT OF VIEW AND GOAl
+In summary, all I need to do is to do hypothesis testing and take a decision. if Men's Mean score for indoor gardening is  73 (same as women) or not. and to also determine what could be the mean range based on sample.
 
 ![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/Point%20of%20View.png)
 
@@ -37,11 +39,15 @@ than to use a T-test.
 
 ## HYPOTHESIS
 
+* *My Null  Hypothesis* simply says that the mean score of men is same as women (Hypothesised mean = 73)
+*  *My Alternate hypothesis* says the two means are not the same.
+
 ![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/Hypothesis.png)
 
 
 
 ## DETERMINING SIGNIFICANT FIGURE
+For this task, I will take my significant figure to be *0.05*
 
 ![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/significant%20figure.png)
 
@@ -62,6 +68,7 @@ than to use a T-test.
 ![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/Critical%20values.png)
 
 ## DECISION
+
 
 
 ## CONFIDENCE INTERVAL
