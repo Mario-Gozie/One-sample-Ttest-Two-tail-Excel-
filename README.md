@@ -1,6 +1,6 @@
 ## INTRODUCTION
 
-This is a one sample test to compare mean peformance of Men and Womenfor an indoor gardening task through hypothesis testing.
+This is a one sample test to compare mean peformance of Men and Women for an indoor gardening task through hypothesis testing.
 
 ### RELEVANCE OF HYPOTHESIS TESTING IN A BUSISNESS SETTING
 
