@@ -1,4 +1,5 @@
 ## INTRODUCTION
+
 This is a one sample test to compare two means (Men and Women) peformance through hypothesis testing.
 
 ### RELEVANCE OF HYPOTHESIS TESTING IN A BUSISNESS SETTING
@@ -18,36 +19,36 @@ than to use a T-test.
 
 ## POINT OF VIEW AND GOAL
 
-![Alt_Text]()
+![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/Point%20of%20View.png)
 
 
 
 
 ## HYPOTHESIS
 
-![Alt_Text]()
+![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/Hypothesis.png)
 
 
 
 ## DETERMINING SIGNIFICANT FIGURE
 
-![Alt_Text]()
+![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/significant%20figure.png)
 
 
 ## DATA COLLECTION, CALCULATION OF SAMPLE STATISTICS, CALCULATION OF TEST STATISTICS.
 
-![Alt_Text]()
+![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/Data%20collection.png)
 
 ## DECISION MAKING
 
 
 ### CALCULATION OF P-VALUE AND CHECKING FOR THE REJECTION RULE 
 
-![Alt_Text]()
+![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/Pvalue.png)
 
 ### CALCULATION OF CRITICAL VALUE AND CHECKING FOR THE REJECTION RULE
 
-![Alt_Text]()
+![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/Critical%20values.png)
 
 ## DECISION
 
@@ -56,7 +57,7 @@ than to use a T-test.
 
 since the average score of Men and Women are not the same, I need to know a range for the average score of men, in order to know this, I have to do a confidence interval calculation.
 
-![Alt_Text]()
+![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/Confidence%20Interval.png)
 
 so from the sample so far, I can say that I am 95% confident that the mean of score of Men will be between 62.78 and 67.47
 
