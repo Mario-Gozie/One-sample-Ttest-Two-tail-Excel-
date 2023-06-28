@@ -2,9 +2,7 @@
 
 This is a one sample test to compare mean peformance of Men and Women for an indoor gardening task through hypothesis testing.
 
-### RELEVANCE OF HYPOTHESIS TESTING IN A BUSISNESS SETTING
 
-Hypothesis testing is very important in business analytics for decision making.lets takefor example that an Ecommerce business want to change their delivery company for a faster one, they need to run a hypothesis test with samples and compare if there is a difference between the time it takes to make delivery between the old and the new company. This will help stake-holders to make decision whether to continue with the old company or switch to the new one. 
 
 ## THE TASK
 
@@ -80,7 +78,11 @@ since the average score of Men and Women are not the same, I need to know a rang
 
 ![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/Confidence%20Interval.png)
 
-so from the sample so far, I can say that I am 95% confident that the mean of score of Men will be between 62.78 and 67.47
+so from the sample so far, I can say that I am 95% confident that the mean of score of Men will be between 62.78 and 67.47.
+
+### RELEVANCE OF HYPOTHESIS TESTING IN A BUSISNESS SETTING
+
+Hypothesis testing is very important in business analytics for decision making. lets take for example that an Ecommerce business wants to change their delivery company for a faster one, they need to run a hypothesis test with samples and compare if there is a difference between the time it takes to make delivery between the old and the new company. This will help stake-holders to make decision whether to continue with the old company or switch to the new one. 
 
 ## Thank You
 
