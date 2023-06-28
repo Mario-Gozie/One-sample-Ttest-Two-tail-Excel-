@@ -24,11 +24,11 @@ Now the tricky part is that the question is asking that I assume that the men an
 
 ## DECIDING ON STATISTICAL TEST TO USE
 
-In deciding the statistical test to use for comparing means, I need to consider if the population mean andpopulation standard deviation is 
-given or not. Here, the question gave the population mean and stated it clearly that the population standard deviation is absent. so I have no optionthan to use a **_T-test_** and it has to be **_Two-Tailed_** because I am asked to check if the two mean scores are the same not if one is higher or lower. if otherwise (I am given mean and standard deviation of the population, I would have gone for a **_Two-Tailed Z-test_**
+In deciding the statistical test to use for comparing means, I need to consider if the population mean and population standard deviation is 
+given or not. Here, the question gave the population mean and stated it clearly that the population standard deviation is absent. so I have no option than to use a **_T-test_** and it has to be **_Two-Tailed_** because I am asked to check if the two mean scores are the same not if one is higher or lower. if otherwise (in a case I am given mean and standard deviation of the population), I would have gone for a **_Two-Tailed Z-test_**
 
 ## POINT OF VIEW AND GOAl
-In summary, all I need to do is to do hypothesis testing and take a decision. if Men's Mean score for indoor gardening is  73 (same as women) or not. and to also determine what could be the mean range based on sample.
+In summary, all I need to do is to do hypothesis testing and take a decision, if Men's Mean score for indoor gardening is  73 (same as women) or not. I would also determine what could be the mean range for men based on sample.
 
 ![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/Point%20of%20View.png)
 
@@ -45,6 +45,7 @@ In summary, all I need to do is to do hypothesis testing and take a decision. if
 
 
 ## DETERMINING SIGNIFICANT FIGURE
+
 For this task, I will take my significant figure to be **0.05**
 
 ![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/significant%20figure.png)
@@ -59,26 +60,31 @@ For this task, I will take my significant figure to be **0.05**
 
 ### CALCULATION OF P-VALUE AND CHECKING FOR THE REJECTION RULE 
 
+* if P-value is less than my significant figure (0.05), I will reject the Null hypothesis. if its nits not, I will fail to reject the Null hypothesis.
+
 ![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/Pvalue.png)
 
 ### CALCULATION OF CRITICAL VALUE AND CHECKING FOR THE REJECTION RULE
 
+* if my T-statistic does not fall within my critical value, I will reject the Null hypothesis. if otherwise,I will accept it.
+
 ![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/Critical%20values.png)
 
 ## DECISION
-Looking at the section for calculating sample statistics and Test statistic, There seems to be difference between the hypothesized mean (73) and the sample mean (6.125). **_A difference of 7.875_**. After hypothesis testing, I got a P-value(3.9921E-08) less than the significant figure which shows that the difference in mean I saw was significant. hence, **I reject the null Hypothesis that the Average mean of mean score is same as women.** 
 
-Alternatively, I calculated the critical value for a T-test distribution. which is -2.02269092 on  the left and 202269092 on the left and  my T-statistic(-6.803004533) does not fall in-between these values so **I have to reject the null hypothesis.**
+Looking at the **section for calculating sample statistics and Test statistic** , There seems to be difference between the hypothesized mean (73) and the sample mean (65.125). **_A difference of 7.875_**. After hypothesis testing, I got a P-value(3.9921E-08) less than the significant figure which shows that the difference in mean I saw was significant. hence, **I reject the null Hypothesis that the Average mean score of men is same as that of  women.** 
+
+Alternatively, I calculated the critical value for a T-test distribution, which is -2.02269092 on  the left and 202269092 on the right.The T-statistic for this test is -6.803004533 and it does not fall in-between the critical values values so **I have to reject the null hypothesis.**
 
 ![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/Decision.png)
 
 ## CONFIDENCE INTERVAL
 
-since the average score of Men and Women are not the same, I need to know a range for the average score of men, in order to know this, I have to do a confidence interval calculation.
+since the average score of Men and Women are not the same, I need to know a **range** for the average score of men. In order to know this, I have to do a confidence interval calculation.
 
 ![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/Confidence%20Interval.png)
 
-so from the sample so far, I can say that I am 95% confident that the mean of score of Men will be between 62.78 and 67.47.
+Having gotten the upper bound and lower bound for my confidence interval, I can say that based on my sample, I am 95% confident that the mean of score of Men will be between 62.78 and 67.47.
 
 ### RELEVANCE OF HYPOTHESIS TESTING IN A BUSISNESS SETTING
 
