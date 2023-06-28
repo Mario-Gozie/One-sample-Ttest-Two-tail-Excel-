@@ -4,7 +4,18 @@ This is a one sample test to compare two means (Men and Women) peformance throug
 
 ### RELEVANCE OF HYPOTHESIS TESTING IN A BUSISNESS SETTING
 
-Hypothesis testing is very important in business analytics for decision making for example, if an Ecommerce business want to change their delivery company for a faster one, they need to run a hypothesis test with samples and compare if there is a difference between the time it takes to make delivery between the old and the new company. This will help stake-holders to make decision whether to continue with the old company or switch to the new one.
+Hypothesis testing is very important in business analytics for decision making.lets takefor example that an Ecommerce business want to change their delivery company for a faster one, they need to run a hypothesis test with samples and compare if there is a difference between the time it takes to make delivery between the old and the new company. This will help stake-holders to make decision whether to continue with the old company or switch to the new one. 
+
+## THE TASK
+
+We read the story of _Martha Stewart correctional Quarterly_ which tells us that the average score of women on a test of indoor gardening is 73. but there is no standard deviation. we want to know how men will score on this test.We sample random selection of n = 40 men, and compare their sample mean (M= 65.13) to the population mean of women. The sample of is assumed to be pulled from a population of men who have the same mean as women (U = 73).
+
+![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/The%20Task.png)
+
+## THE DATASET
+
+![Alt_Text](https://github.com/Mario-Gozie/One-sample-Ttest-Two-tail-Excel-/blob/master/Images/Dataset.png)
+
 
 ## A GLANCE AT THE TASK
 
